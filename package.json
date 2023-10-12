@@ -7,5 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Greg DeMaderios",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "highland": "^2.13.5",
+    "json-2-csv": "^4.1.0"
+  }
 }
